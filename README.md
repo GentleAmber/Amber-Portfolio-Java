@@ -3,7 +3,8 @@ This repository contains 3 personal projects:
 <br><br>
 **1 Tank War Game ([demo video](https://youtu.be/3K--jC5hLa4))**<br>
 A tank game where the player controls a tank to fight multiple enemy tanks. Supports save and load.<br>
-Modules: Player Control; Enemy AI (randomly moves and shoots); Collision Detection; Rendering (with JPanel); Game State Management; Animation; Event Handling; Thread Management.
+Modules: Player Control; Enemy AI (randomly moves and shoots); Collision Detection; Rendering (with JPanel); Game State Management; Animation; Event Handling; Thread Management.<br>
+_How to control_: Use arrow keys to move. Use "j" to shoot.
 <br><br>
 **2 Instant Messaging System ([demo video](https://youtu.be/nJLmUAOUesg))**<br>
 A messaging system allowing multiple clients to exchange and broadcast messages, as well as send files.<br>
